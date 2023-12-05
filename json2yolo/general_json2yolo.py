@@ -6,7 +6,7 @@ import pandas as pd
 from PIL import Image
 from collections import defaultdict
 
-from utils import *
+from .utils import *
 
 
 # Convert INFOLKS JSON file into YOLO-format labels ----------------------------
